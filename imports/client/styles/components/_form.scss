@@ -1,0 +1,10 @@
+.form{
+  display: flex;
+}
+
+.form__input{
+  border: 1px solid #e8e8e8;
+  flex-grow: 1; /* determina a todos los elementos del flex grid que crezcan al maximo del parent*/
+  padding: 0 1.3rem;
+  
+}
